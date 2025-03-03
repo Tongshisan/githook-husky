@@ -1,0 +1,2 @@
+# husky
+githook-husky
